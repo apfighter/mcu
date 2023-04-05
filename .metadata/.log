@@ -1,0 +1,477 @@
+!SESSION 2023-04-05 14:10:23.565 -----------------------------------------------
+eclipse.buildId=Version 1.6.1
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-04-05 14:10:44.577
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-04-05 14:10:44.625
+!MESSAGE Log4j initialized with config file D:\FIGHTER\github\mcu\.metadata\.log4j.xml
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:10:45.798
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:10:45.809
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:10:45.810
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:10:45.810
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2023-04-05 14:10:52.654
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.008
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.024
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.024
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.024
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.040
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.102
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.102
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.102
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.102
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.102
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.102
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.102
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.102
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.102
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.102
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.102
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.102
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.102
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.118
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.118
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.118
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.118
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.118
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.118
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.118
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.118
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.118
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.118
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.118
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.118
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.118
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.118
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2023-04-05 14:11:02.118
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-04-05 14:11:02.651
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2023-04-05 14:12:10.701
+!MESSAGE Connection to https://download.eclipse.org/releases/2020-06/p2.index failed on Remote host terminated the handshake. Retry attempt 0 started
+!STACK 0
+javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:436)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.upgrade(DefaultHttpClientConnectionOperator.java:191)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.upgrade(PoolingHttpClientConnectionManager.java:390)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:428)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.EOFException: SSL peer shut down incorrectly
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+	... 19 more
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2023-04-05 14:12:15.801
+!MESSAGE Connection to https://download.eclipse.org/releases/2020-06/site.xml failed on Remote host terminated the handshake. Retry attempt 0 started
+!STACK 0
+javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:436)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.upgrade(DefaultHttpClientConnectionOperator.java:191)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.upgrade(PoolingHttpClientConnectionManager.java:390)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:428)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.EOFException: SSL peer shut down incorrectly
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+	... 19 more
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2023-04-05 14:12:17.260
+!MESSAGE Unable to read repository at https://download.eclipse.org/releases/2020-06/site.xml.
+!STACK 0
+javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:436)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.upgrade(DefaultHttpClientConnectionOperator.java:191)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.upgrade(PoolingHttpClientConnectionManager.java:390)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:428)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.EOFException: SSL peer shut down incorrectly
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+	... 19 more
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2023-04-05 14:12:17.869
+!MESSAGE Connection to https://download.eclipse.org/releases/2020-06/p2.index failed on Remote host terminated the handshake. Retry attempt 0 started
+!STACK 0
+javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:436)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.upgrade(DefaultHttpClientConnectionOperator.java:191)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.upgrade(PoolingHttpClientConnectionManager.java:390)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:428)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.EOFException: SSL peer shut down incorrectly
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+	... 19 more
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2023-04-05 14:12:25.700
+!MESSAGE Connection to https://download.eclipse.org/technology/epp/packages/2020-06/p2.index failed on Remote host terminated the handshake. Retry attempt 0 started
+!STACK 0
+javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:436)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.upgrade(DefaultHttpClientConnectionOperator.java:191)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.upgrade(PoolingHttpClientConnectionManager.java:390)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:428)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.EOFException: SSL peer shut down incorrectly
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+	... 19 more
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2023-04-05 14:12:32.673
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: Unable to read repository at https://download.eclipse.org/technology/epp/packages/2020-06/content.xml.
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:247)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:69)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.loadMetadataRepository(ProvisioningContext.java:233)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedMetadataRepositories(ProvisioningContext.java:211)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getMetadata(ProvisioningContext.java:299)
+	at org.eclipse.equinox.internal.p2.director.SimplePlanner.updatesFor(SimplePlanner.java:1000)
+	at org.eclipse.equinox.p2.operations.UpdateOperation.updatesFor(UpdateOperation.java:144)
+	at org.eclipse.equinox.p2.operations.UpdateOperation.computeProfileChangeRequest(UpdateOperation.java:180)
+	at org.eclipse.equinox.p2.operations.UpdateOperation.lambda$0(UpdateOperation.java:315)
+	at org.eclipse.equinox.internal.p2.operations.SearchForUpdatesResolutionJob.runModal(SearchForUpdatesResolutionJob.java:41)
+	at org.eclipse.equinox.p2.operations.ProfileChangeOperation.resolveModal(ProfileChangeOperation.java:118)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater.updatesAvailable(AutomaticUpdater.java:112)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater.updatesAvailable(AutomaticUpdater.java:91)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdateScheduler$1.updatesAvailable(AutomaticUpdateScheduler.java:133)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:83)
+Caused by: javax.net.ssl.SSLException: Connection reset
+	at java.base/sun.security.ssl.Alert.createSSLException(Unknown Source)
+	at java.base/sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at java.base/sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at java.base/sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:436)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.upgrade(DefaultHttpClientConnectionOperator.java:191)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.upgrade(PoolingHttpClientConnectionManager.java:390)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:428)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:246)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+	Suppressed: java.net.SocketException: Connection reset by peer: socket write error
+		at java.base/java.net.SocketOutputStream.socketWrite0(Native Method)
+		at java.base/java.net.SocketOutputStream.socketWrite(Unknown Source)
+		at java.base/java.net.SocketOutputStream.write(Unknown Source)
+		at java.base/sun.security.ssl.SSLSocketOutputRecord.encodeAlert(Unknown Source)
+		... 21 more
+Caused by: java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(Unknown Source)
+	at java.base/java.net.SocketInputStream.read(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+	... 18 more
+!SUBENTRY 1 org.eclipse.equinox.p2.transport.ecf 4 1002 2023-04-05 14:12:32.674
+!MESSAGE Unable to read repository at https://download.eclipse.org/technology/epp/packages/2020-06/content.xml.
+!STACK 0
+javax.net.ssl.SSLException: Connection reset
+	at java.base/sun.security.ssl.Alert.createSSLException(Unknown Source)
+	at java.base/sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at java.base/sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at java.base/sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:436)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.upgrade(DefaultHttpClientConnectionOperator.java:191)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.upgrade(PoolingHttpClientConnectionManager.java:390)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:428)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:246)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+	Suppressed: java.net.SocketException: Connection reset by peer: socket write error
+		at java.base/java.net.SocketOutputStream.socketWrite0(Native Method)
+		at java.base/java.net.SocketOutputStream.socketWrite(Unknown Source)
+		at java.base/java.net.SocketOutputStream.write(Unknown Source)
+		at java.base/sun.security.ssl.SSLSocketOutputRecord.encodeAlert(Unknown Source)
+		... 21 more
+Caused by: java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(Unknown Source)
+	at java.base/java.net.SocketInputStream.read(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+	... 18 more
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-04-05 14:13:25.294
+!MESSAGE Indexed 'demo' (22 sources, 82 headers) in 5.48 sec: 5,365 declarations; 29,204 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0058%)
